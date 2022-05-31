@@ -1,6 +1,6 @@
-# fly.toml file generated for news-rss-parser on 2022-03-20T16:59:10+02:00
+# fly.toml file generated for articles-rss-parser on 2022-03-20T16:59:10+02:00
 
-app = "news-rss-parser"
+app = "articles-rss-parser"
 
 kill_signal = "SIGINT"
 kill_timeout = 5

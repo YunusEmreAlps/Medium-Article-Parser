@@ -1,4 +1,4 @@
-module github.com/cmakafui/news-parse-rss
+module github.com/cmakafui/articles-parse-rss
 
 go 1.17
 

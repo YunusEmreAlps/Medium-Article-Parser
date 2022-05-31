@@ -1,1 +1,1 @@
-web: bin/news-parse-rss
+web: bin/articles-parse-rss
